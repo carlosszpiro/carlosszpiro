@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Carlos Szpiro!
-
 - 🤓 Aprendiz de Full-Stack
 - 🔭 Militar do Exército Brasileiro
 - 📚 Especialista em Mikrotik
